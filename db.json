@@ -1,0 +1,25 @@
+{
+  "Tasks": [
+    {
+      "id": "3ad00dea-21bb-48eb-9650-d1f06a09a9d6",
+      "title": "go to school",
+      "completed": false
+    }
+  ],
+  "Employee": [
+    {
+      "id": "Q9iqQJ",
+      "name": "muheto",
+      "email": "muheto@gmail.com",
+      "phone": "0783748488",
+      "position": "manager"
+    },
+    {
+      "id": "wrb4MN",
+      "name": "muheto one",
+      "email": "muhe@gmail.com",
+      "phone": "0783839283",
+      "position": "manager"
+    }
+  ]
+}
